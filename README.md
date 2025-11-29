@@ -38,15 +38,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Ayushnator's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayushnator&show_icons=true&theme=tokyonight)
-
----
-
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ayushnator&theme=tokyonight)
-
----
 
 ### 🧠 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushnator&layout=compact&theme=tokyonight)
@@ -54,8 +45,7 @@
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://your-portfolio-link.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/ayush-singh-0b5ba0256)
 
 ---
 
