@@ -39,8 +39,6 @@
 ---
 
 
-### 🧠 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushnator&layout=compact&theme=tokyonight)
 
 ### 💻 Languages I Use
 ![C++](https://skillicons.dev/icons?i=cpp)
