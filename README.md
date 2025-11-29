@@ -33,7 +33,7 @@
 
 ---
 
-### ✨ Typing Animation
+### ✨ 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=MERN+Developer;React+%26+Next.js+Developer;Passionate+Coder;Building+Scalable+Projects;Tech+Enthusiast)](https://git.io/typing-svg)
 
 ---
@@ -41,6 +41,11 @@
 
 ### 🧠 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushnator&layout=compact&theme=tokyonight)
+
+### 💻 Languages I Use
+![C++](https://skillicons.dev/icons?i=cpp)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Python](https://skillicons.dev/icons?i=python)
 
 ---
 
