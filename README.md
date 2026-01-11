@@ -7,6 +7,9 @@
 - 💻 MERN Stack Developer  
 - ⚡ Passionate about creating fast, scalable, and modern web apps  
 - 🌱 Currently leveling up in **Next.js & backend system design**
+ ### 🏆 Open Source Contributions
+- Contributed to multiple repositories via PRs
+- Fixed bugs, improved UI, added features
 
 ---
 
